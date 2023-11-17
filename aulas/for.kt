@@ -1,5 +1,5 @@
 fun main(){
-    for(i in 1 .. 10){ //Ordem Crescente
+    for(i in 0 until  10){ //Ordem Crescente
         print("${i} ")
     }
 
